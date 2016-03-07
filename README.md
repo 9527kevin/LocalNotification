@@ -6,3 +6,5 @@
 * 类似短信快捷回复功能
 
 代码中已有详细注释，效果图一张
+
+![image](https://github.com/longitachi/LocalNotification/blob/master/示例图/localNotification.gif)
