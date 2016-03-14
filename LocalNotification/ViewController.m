@@ -25,7 +25,7 @@
 {
     UILocalNotification *localNotification = [[UILocalNotification alloc] init];
     //触发通知时间
-    localNotification.fireDate = [NSDate dateWithTimeIntervalSinceNow:1.5];
+    localNotification.fireDate = [NSDate dateWithTimeIntervalSinceNow:5];
     //重复间隔
 //    localNotification.repeatInterval = kCFCalendarUnitMinute;
     localNotification.timeZone = [NSTimeZone defaultTimeZone];
