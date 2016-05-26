@@ -8,3 +8,6 @@
 代码中已有详细注释，效果图一张
 
 ![image](https://github.com/longitachi/LocalNotification/blob/master/示例图/localNotification.gif)
+
+###文章地址
+http://www.jianshu.com/p/e404ab9fc613
