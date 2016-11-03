@@ -13,6 +13,8 @@
 		FD7BA83E1C8961D90021646F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD7BA83C1C8961D90021646F /* Main.storyboard */; };
 		FD7BA8401C8961D90021646F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD7BA83F1C8961D90021646F /* Assets.xcassets */; };
 		FD7BA8431C8961D90021646F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD7BA8411C8961D90021646F /* LaunchScreen.storyboard */; };
+		FDF69EEC1DCB450F007587DC /* xiamu.png in Resources */ = {isa = PBXBuildFile; fileRef = FDF69EEB1DCB450F007587DC /* xiamu.png */; };
+		FDF69EEE1DCB4523007587DC /* 0.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FDF69EED1DCB4523007587DC /* 0.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		FD7BA8421C8961D90021646F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD7BA8441C8961D90021646F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FD7BA84A1C89714F0021646F /* Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
+		FDF69EEB1DCB450F007587DC /* xiamu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xiamu.png; sourceTree = "<group>"; };
+		FDF69EED1DCB4523007587DC /* 0.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 0.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				FD7BA8371C8961D90021646F /* AppDelegate.m */,
 				FD7BA8391C8961D90021646F /* ViewController.h */,
 				FD7BA83A1C8961D90021646F /* ViewController.m */,
+				FDF69EEB1DCB450F007587DC /* xiamu.png */,
+				FDF69EED1DCB4523007587DC /* 0.mp4 */,
 				FD7BA83C1C8961D90021646F /* Main.storyboard */,
 				FD7BA83F1C8961D90021646F /* Assets.xcassets */,
 				FD7BA8411C8961D90021646F /* LaunchScreen.storyboard */,
@@ -138,9 +144,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDF69EEC1DCB450F007587DC /* xiamu.png in Resources */,
 				FD7BA8431C8961D90021646F /* LaunchScreen.storyboard in Resources */,
 				FD7BA8401C8961D90021646F /* Assets.xcassets in Resources */,
 				FD7BA83E1C8961D90021646F /* Main.storyboard in Resources */,
+				FDF69EEE1DCB4523007587DC /* 0.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +310,7 @@
 				FD7BA8491C8961D90021646F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
