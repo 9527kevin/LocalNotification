@@ -5,9 +5,18 @@
 * 类似新浪微博点赞功能
 * 类似短信快捷回复功能
 
-代码中已有详细注释，效果图一张
+代码中已有详细注释
 
-![image](https://github.com/longitachi/LocalNotification/blob/master/示例图/localNotification.gif)
+* iOS10效果图
+![image](https://github.com/longitachi/LocalNotification/blob/master/示例图/iOS10-logo1.png)
+![image](https://github.com/longitachi/LocalNotification/blob/master/示例图/iOS10-logo2.gif)
+
+* iOS9效果图
+![image](https://github.com/longitachi/LocalNotification/blob/master/示例图/iOS9-logo.gif)
 
 ###文章地址
+iOS9推送相关
 http://www.jianshu.com/p/e404ab9fc613
+
+iOS10推送相关
+http://www.jianshu.com/p/ff14939b6639
